@@ -18,9 +18,7 @@
       <stop offset="100%" style="stop-color:#020617;stop-opacity:1" />
     </linearGradient>
 
-    <filter id="shadow">
-      <feDropShadow dx="0" dy="20" stdDeviation="30" flood-color="#38BDF8" flood-opacity="0.25"/>
-    </filter>
+   
   </defs>
 
   <rect x="40" y="40" rx="20" ry="20" width="620" height="180" fill="url(#grad)" filter="url(#shadow)">
@@ -80,21 +78,8 @@
 
 ## 🚀 Featured Work
 
-### 🧳 Tourism Platform (Booking-like)
-**Role:** Front-End Architecture & UI  
 
-**Features:**
-- Company comparison system  
-- Admin dashboard layouts  
-- Scalable component design  
 
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
